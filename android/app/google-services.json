@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346834917880",
+    "project_id": "brikidtest",
+    "storage_bucket": "brikidtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346834917880:android:58408e02514eaf4ab31e0d",
+        "android_client_info": {
+          "package_name": "com.example.test_brikId"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIw6AjYwTwYXM3YjsYwDGHzVr6J_XJM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
